@@ -409,7 +409,7 @@ const QuizGeneratorPage = () => {
   const chatEndRef = useRef<HTMLDivElement>(null);
 
   // OpenAI API Key
-  const OPENAI_API_KEY = "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";
+  const OPENAI_API_KEY = "Enter API here";
 
   // Auto-scroll chat to bottom
   useEffect(() => {
